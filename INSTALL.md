@@ -48,6 +48,10 @@ Confirm you are in python38 env and have the requirements38.txt file in this fol
 ```
 python3 -m pip install -r requirements38.txt
 ```
+On Windows, you may need to type `python` instead of `python3`
+```
+python -m pip install -r requirements38.txt
+```
 
 # Test your setup
 Try out your setup on the included files---and confirm whether you are able to see the materials.
