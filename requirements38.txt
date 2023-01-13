@@ -1,6 +1,8 @@
 keras
 pandas
 matplotlib
+notebook
+lab
 ipykernel
 scipy
 numpy
