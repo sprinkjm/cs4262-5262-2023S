@@ -53,6 +53,13 @@ On Windows, you may need to type `python` instead of `python3`
 python -m pip install -r requirements38.txt
 ```
 
+## Install the kernel for your jupyter notebook
+In some circumstances, your kernel and installed packages may not match what you expect in jupyter lab. To solve this, we install a kernel from within the python38 env (make sure yuo have typed `conda activate python38` first...)
+```
+python -m ipykernel install --user --name=python38
+```
+If you have issues with install paths or other versioning, then make sure you select from within Jupyter `Kernel->python38`. Once that kernel starts, you will get the installed package versions as needed.
+
 # Test your setup
 Try out your setup on the included files---and confirm whether you are able to see the materials.
 

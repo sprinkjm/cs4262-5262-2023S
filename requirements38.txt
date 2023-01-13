@@ -1,8 +1,12 @@
 keras
 pandas
 matplotlib
+ipykernel
+scipy
 numpy
+seaborn
 pillow
 tensorflow
 scikit-learn
 scikit-image
+
