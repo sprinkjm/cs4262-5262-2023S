@@ -2,7 +2,7 @@ keras
 pandas
 matplotlib
 notebook
-lab
+jupyterlab
 ipykernel
 scipy
 numpy
