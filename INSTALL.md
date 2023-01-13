@@ -46,7 +46,7 @@ There will be lots of packages you need, here is a great way to get started base
 
 Confirm you are in python38 env and have the requirements38.txt file in this folder, then:
 ```
-python3 -m pip -r requirements38.txt
+python3 -m pip install -r requirements38.txt
 ```
 
 # Test your setup
