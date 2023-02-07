@@ -1,0 +1,14 @@
+keras
+pandas
+matplotlib
+notebook
+jupyterlab
+ipykernel
+scipy
+numpy
+seaborn
+pillow
+tensorflow-macos
+scikit-learn
+scikit-image
+
